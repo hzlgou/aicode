@@ -14,5 +14,7 @@
 ```bash
 node test.js
 
-直接修改word文档，readme然后就可以提交了，
-修改readme可以下载一下notepad++
+直接修改word文档，加上自己的姓名与学号就好了
+readme.md文件
+然后就可以提交了，
+修改readme.md可以下载一下notepad++
