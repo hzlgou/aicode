@@ -13,3 +13,6 @@
 ## 运行方法
 ```bash
 node test.js
+
+直接修改word文档，readme然后就可以提交了，
+修改readme可以下载一下notepad++
